@@ -21,6 +21,7 @@ Check out the fun projects I've done so far!
 
 ### Libraries
 ![MUI](https://img.shields.io/badge/Mui-%23316192.svg?style=for-the-badge&logo=mui&logoColor=0B7FFF&color=071A2F)
+![Chart.js](https://img.shields.io/badge/Chart.js-%23316192.svg?style=for-the-badge&logo=chartdotjs&logoColor=FE777C&color=E7E9ED)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%23316192.svg?style=for-the-badge&logo=tailwindcss&logoColor=0B7FFF&color=071A2F)
 
 ### Tools
