@@ -5,7 +5,7 @@
 
 ### 💬 About Me
 
-My name is Brenda, and I’m a Software Engineer with a focus in front end technologies. Over the years, I found myself gravitating towards projects where I create tools that help others in their lives by bringing them insightful data visualizations or automating their routine tasks. Front end development appeals to me because this is where I can have the most direct impact on the users. 
+My name is Brenda, and I’m a Full Stack Software Engineer with a focus in front end technologies. Over the years, I found myself gravitating towards projects where I create tools that help others in their lives by bringing them insightful data visualizations or automating their routine tasks. Front end development appeals to me because this is where I can have the most direct impact on the users. 
 
 Check out the fun projects I've done so far!
 
