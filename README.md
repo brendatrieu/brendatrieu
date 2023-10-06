@@ -37,6 +37,7 @@ Check out the fun projects I've done so far!
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-%23CB3837.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=1D2327)
 
 ### 📫 Let's Connect!
 
